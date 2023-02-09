@@ -1,0 +1,5 @@
+models/
+plots/
+recording/
+*.pyc
+__pycache__
